@@ -1,0 +1,25 @@
+{
+  "name": "get-checked-number-for-techbook",
+  "version": "1.0.0",
+  "description": "get checked number for teckbook7",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Silver-birder/get-checked-number-for-techbook.git"
+  },
+  "keywords": [
+    "teckbook7"
+  ],
+  "dependencies": {
+    "puppeteer": "^1.6.2"
+  },
+  "author": "silverbirder",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Silver-birder/get-checked-number-for-techbook/issues"
+  },
+  "homepage": "https://github.com/Silver-birder/get-checked-number-for-techbook#readme"
+}
